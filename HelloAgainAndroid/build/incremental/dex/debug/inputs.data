@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1404984339000 839 9889e6b3ebca27bb994f3503d464016a65f5eca0 /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/MainActivity.class
+1404984339000 440 f0381117f8557437abc82f78cb687af3bb54202e /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$drawable.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1404984339000 505 b0487db03fbc53d98acb80c8b107a771760b6b3c /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$string.class
+1404984339000 787 40ba57a814f22f69a90fc31e82d503574d7f230d /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R.class
+1404984339000 464 777cef27bbddccf0f4bd454f57e8595476432ccf /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$style.class
+1404984339000 436 1ee6704058ee618d90a2f1debfc01f5773eb3fc0 /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$layout.class
+1404984339000 421 3660b100efb15d160d2c92b2517b576718db8afe /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$menu.class
+1404984339000 426 81122782353dc1a0339284bebdc61c2eead3c2c9 /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$id.class
+1404984339000 373 1a90bb13e6916b5a8629326321c3d7f1bb69c643 /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$attr.class
+1404984339000 494 8f535ca7e9129072dae1ff1da911326f3c0bb1c7 /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/R$dimen.class
+1404984339000 488 1600748c80235a8ec859170d93ea9f62b9948952 /Users/asao/AndroidStudioProjects/HelloAgainAndroidProject/HelloAgainAndroid/build/classes/debug/com/example/helloagainandroid/BuildConfig.class
